@@ -79,7 +79,6 @@ header
 
 .hero-title {
   color: var(--basic-white-color);
-  font-style: normal;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
@@ -91,7 +90,6 @@ header
 .hero-button {
   background-color: var(--accent-color);
   color: var(--basic-white-color);
-  font-style: normal;
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
@@ -108,7 +106,6 @@ header
 /* Особенности */
 .lists-title {
   color: var(--header-color);
-  font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.4;
@@ -124,7 +121,7 @@ header
 .title {
   color: var(--header-color);
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.2;
   text-align: center;
@@ -136,7 +133,6 @@ header
 }
 
 .team-item {
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2;
